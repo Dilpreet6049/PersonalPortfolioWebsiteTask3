@@ -122,7 +122,7 @@
   </tr>
 </table>
                 
-            </div>
+        </div>
         </section>
 
         <!-- modal for contact -->
